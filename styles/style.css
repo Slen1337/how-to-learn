@@ -1,4 +1,4 @@
-/* * {
+  /* * {
   outline-width: 1px;
   outline-style: solid;
   outline-color: green;
@@ -357,9 +357,10 @@
 .logo_place_footer {
   align-self: flex-start;
   margin: 0;
+  height: 35px;
+  width: 183px;
 }
-/* позиция лого для футера */
-
+/* позиция лого для футера, настройка размеров */
 
 .footer__column-heading {
   align-self: flex-start;
