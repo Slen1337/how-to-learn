@@ -1,0 +1,9 @@
+.khan__book-pic {
+  margin-right: 48px;
+  width: 620px;
+  height: 608px;
+  background-position: 0 0;
+  background-size: cover;
+  background-image: url(../../../images/khan-book.jpg);
+}
+/* настроили картинку с книгой Кхана, задали отступы */
